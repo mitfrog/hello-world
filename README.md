@@ -1,2 +1,4 @@
 # hello-world
 This is my first effort at using GitHub, so there will probably be no actual code here.
+I have just purchased an Arduino Uno r3, and plan to use it to control our ham radio repeaters (one for each repeater).  The mechanism of control is to send via UHF radio a series of DTMF tones, to be decoded by a DTMF chip and read out by the Arduino.  If a proper code is received, it will operate the power relay that controls the power of the cross-band repeater transceiver, thus satisfying FCC rules of a seperate control channel.  My son suggested I try using GitHub.  While I have written much code (assembly, visual basic, javascript primarily) and managed a number of software projects (Apple //, Mac, DSP), all of which used version control of one sort or another, this is my first experience with it.
+I have to say, so far, it is amazingly easy.  I was expecting a much harder learning curve...!
